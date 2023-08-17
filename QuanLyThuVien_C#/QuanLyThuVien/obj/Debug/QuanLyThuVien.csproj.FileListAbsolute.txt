@@ -22,3 +22,7 @@ D:\BaiTap\C_#\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form2.resource
 D:\BaiTap\C_#\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Form3.resources
 D:\BaiTap\C_#\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
 D:\BaiTap\C_#\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\khiem\OneDrive\Máy tính\QL_ThuVien\QuanLyThuVien_C#\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\khiem\OneDrive\Máy tính\QL_ThuVien\QuanLyThuVien_C#\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.ResolveComReference.cache
+C:\Users\khiem\OneDrive\Máy tính\QL_ThuVien\QuanLyThuVien_C#\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\khiem\OneDrive\Máy tính\QL_ThuVien\QuanLyThuVien_C#\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
