@@ -8,15 +8,15 @@
 
 ## Giao diện chính
 ![](pic/main.png)
-### Ở góc phải giao diện chính là các button có chức năng như thêm, xóa, chỉnh sữa, tìm kiếm thông tin của sách. Button "Quản lý mượn trả" sẽ đưa giao diện chính sang giao diện Quản lý mượn trả. Button "Kết thúc" để đóng ứng dụng hoàn toàn.
-### Ở giữa gồm 2 phần khung. Khung "Thông tin chi tiết" có chức năng nhận thông tin nhập vào từ bàn phím, sau đó sẽ trả thông tin cho các button xử lý như Thêm, xóa, chỉnh sữa, tìm kiếm thực hiện các chức năng tương ứng lên database và trả kết quả về cho khung "Danh sách".
+### Ở góc phải giao diện chính là các button có chức năng như thêm, xóa, chỉnh sửa, tìm kiếm thông tin của sách. Button "Quản lý mượn trả" sẽ đưa giao diện chính sang giao diện Quản lý mượn trả. Button "Kết thúc" để đóng ứng dụng hoàn toàn.
+### Ở giữa gồm 2 phần khung. Khung "Thông tin chi tiết" có chức năng nhận thông tin nhập vào từ bàn phím, sau đó sẽ trả thông tin cho các button xử lý như Thêm, xóa, chỉnh sửa, tìm kiếm thực hiện các chức năng tương ứng trên database và trả kết quả về cho khung "Danh sách".
 ### Sau khi điền đủ các thông tin hợp lệ vào toàn bộ textbox
 ![](pic/add_1.png)
 ### Thực hiện chức năng "Thêm", ta được kết quả:
 ![](pic/add_2.png)
-### Ta có thể thay đổi thông tin sách đã nhập, bằng chức năng "Chỉnh sữa", bằng cách điền đúng tên mã sách ta cần chỉnh sửa và các thông tin ta muốn sửa lại
+### Ta có thể thay đổi thông tin sách đã nhập, bằng chức năng "Chỉnh sửa", bằng cách điền đúng tên mã sách ta cần chỉnh sửa và các thông tin ta muốn sửa lại
 ![](pic/sua_1.png)
-### Sau khi ấn button "Chỉnh sữa", kết quả đạt được
+### Sau khi ấn button "Chỉnh sửa", kết quả đạt được
 ![](pic/sua_2.png)
 ### Để xóa sách, ta chỉ cần click vào đầu dòng của loại sách ta cần muốn và thực hiện button "Xóa Sách"
 ![](pic/xoa.png)
@@ -28,7 +28,7 @@
 
 ## Giao diện "Mượn Trả"
 ![](pic/muontra.png)
-### Cũng như giao diện chính, ở giao diện này cũng có các chức năng tương tự như thêm, xóa, sữa, tìm kiếm thông tin. Ngoài ra, ở đây còn có thêm chức năng xuất thông tin ra file excel. Chức năng này sẽ đưa toàn bộ những gì hiển thị trên "Danh sách người mượn" ra ngoài file excel một cách tự động
+### Cũng như giao diện chính, ở giao diện này cũng có các chức năng tương tự như thêm, xóa, sửa, tìm kiếm thông tin. Ngoài ra, ở đây còn có thêm chức năng xuất thông tin ra file excel. Chức năng này sẽ đưa toàn bộ những gì hiển thị trên "Danh sách người mượn" ra ngoài file excel một cách tự động
 ![](pic/excel.png)
 ### Đối với button "Thoát" ở giao diện này thì nó sẽ đưa ta quay lại giao diện chính.
 
